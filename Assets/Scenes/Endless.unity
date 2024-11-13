@@ -370,16 +370,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
       value: 
       objectReference: {fileID: 545988811}
-    - target: {fileID: 5063445191496980280, guid: 2c0d7c9f5d2721b4a84d06b93135e65f,
-        type: 3}
-      propertyPath: m_Text
-      value: salir
-      objectReference: {fileID: 0}
-    - target: {fileID: 5562829052573971078, guid: 2c0d7c9f5d2721b4a84d06b93135e65f,
-        type: 3}
-      propertyPath: m_Text
-      value: si
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c0d7c9f5d2721b4a84d06b93135e65f, type: 3}
 --- !u!223 &545988811 stripped
@@ -1808,31 +1798,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
       value: 
       objectReference: {fileID: 2035518593}
-    - target: {fileID: 1629012846519196138, guid: 73d1d278df9a79940ac14c78eaa30006,
-        type: 3}
-      propertyPath: m_Text
-      value: Pausa
-      objectReference: {fileID: 0}
-    - target: {fileID: 1629012846561438570, guid: 73d1d278df9a79940ac14c78eaa30006,
-        type: 3}
-      propertyPath: m_Text
-      value: restart
-      objectReference: {fileID: 0}
-    - target: {fileID: 1629012847495392284, guid: 73d1d278df9a79940ac14c78eaa30006,
-        type: 3}
-      propertyPath: m_Text
-      value: ajustes
-      objectReference: {fileID: 0}
-    - target: {fileID: 1629012847783111035, guid: 73d1d278df9a79940ac14c78eaa30006,
-        type: 3}
-      propertyPath: m_Text
-      value: salir
-      objectReference: {fileID: 0}
-    - target: {fileID: 1629012848169908062, guid: 73d1d278df9a79940ac14c78eaa30006,
-        type: 3}
-      propertyPath: m_Text
-      value: Continuar
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 73d1d278df9a79940ac14c78eaa30006, type: 3}
 --- !u!1001 &1893461065544725975
@@ -1997,16 +1962,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
       value: 
       objectReference: {fileID: 2035518593}
-    - target: {fileID: 2347279030927564601, guid: e9c371af83ca92942b653e323fd2256e,
-        type: 3}
-      propertyPath: m_Text
-      value: "misi\xF3n fallida"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2347279031928549288, guid: e9c371af83ca92942b653e323fd2256e,
-        type: 3}
-      propertyPath: m_Text
-      value: Salir
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9c371af83ca92942b653e323fd2256e, type: 3}
 --- !u!223 &4239533325917265998 stripped
@@ -2167,16 +2122,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
       value: 
       objectReference: {fileID: 545988811}
-    - target: {fileID: 5562829052277011478, guid: a3276b2428f1abb428ba48140e71f231,
-        type: 3}
-      propertyPath: m_Text
-      value: Nivel completo
-      objectReference: {fileID: 0}
-    - target: {fileID: 5562829052573971078, guid: a3276b2428f1abb428ba48140e71f231,
-        type: 3}
-      propertyPath: m_Text
-      value: siguiente
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a3276b2428f1abb428ba48140e71f231, type: 3}
 --- !u!1001 &6147287024566454709
@@ -2410,26 +2355,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
       value: 
       objectReference: {fileID: 2035518593}
-    - target: {fileID: 6987378757438543205, guid: 359ba97948e40cb4ebc1061ab50fb5d7,
-        type: 3}
-      propertyPath: m_Text
-      value: salir
-      objectReference: {fileID: 0}
-    - target: {fileID: 6987378758763006158, guid: 359ba97948e40cb4ebc1061ab50fb5d7,
-        type: 3}
-      propertyPath: m_Text
-      value: salir al menu
-      objectReference: {fileID: 0}
-    - target: {fileID: 6987378759180927038, guid: 359ba97948e40cb4ebc1061ab50fb5d7,
-        type: 3}
-      propertyPath: m_Text
-      value: salir del juego
-      objectReference: {fileID: 0}
-    - target: {fileID: 8448350707111922076, guid: 359ba97948e40cb4ebc1061ab50fb5d7,
-        type: 3}
-      propertyPath: m_Text
-      value: salir
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 359ba97948e40cb4ebc1061ab50fb5d7, type: 3}
 --- !u!1001 &7355278823776718833

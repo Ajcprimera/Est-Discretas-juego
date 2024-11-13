@@ -21,11 +21,11 @@ public class ToggleTips : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("Tips") <= 0)
         {
-            toggleText.text = "tips off";
+            toggleText.text = "Enable Tips";
             toggleText.rectTransform.sizeDelta = enableTextSize;
         } else
         {
-            toggleText.text = "tips on";
+            toggleText.text = "Disable Tips";
             toggleText.rectTransform.sizeDelta = disableTextSize;
         }
     }
